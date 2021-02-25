@@ -33,7 +33,7 @@ Your app must:
 * A **git repository hosted on Github**, with a link to your hosted project,  and frequent commits dating back to the **very beginning** of the project. Commit early, commit often.
 * **A ``readme.md`` file** that includes the following:
   * a Descirption of the app
-  * a link to the live site.
+  * a link to the live site
   * installation instructions
   * user stories
   * explanations of the technologies used (including APIs)  
@@ -101,12 +101,12 @@ The [gitbook](https://gawdiseattle.gitbook.io/wdi/12-resources/apis) has some us
 
 * __Total__: Your instructors will give you a total score on your project between:
 
-| Score | Expectations |
-| ----- | ------------ |
-| **0** | _Incomplete._ |
-| **1** | _Does not meet expectations._ |
-| **2** | _Meets expectations, good job!_ |
-| **3** | _Exceeds expectations, you wonderful creature, you!_ |
+| Score | Expectations | Evaluation Criteria |
+| ----- | ------------ | ------------------ |
+| **3** | _Exceeds expectations, you wonderful creature, you!_ | **Solid MVP + Stretch Goals**
+| **2** | _Meets expectations, good job!_ | **Solid MVP -- meets all technical requirments** 
+| **1** | _Does not meet expectations._ | **No MVP -- missed some technical requirments**
+| **0** | _Incomplete._ | **Not Passing -- missed most or all technical requirments and MVP**
 
  This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
 
