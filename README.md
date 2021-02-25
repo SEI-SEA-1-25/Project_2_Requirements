@@ -37,9 +37,12 @@ Your app must:
   * installation instructions
   * user stories
   * explanations of the technologies used (including APIs)  
-  * Wireframes
+  * wireframes
   * a RESTful routing chart 
-  * Daily sprints
+  * database ERDs
+  * mvp goals
+  * stretch goals
+  * daily sprints
   * the approach taken
   * unsolved problems
   * sources used 
@@ -51,19 +54,22 @@ Your app must:
 * Begin by researching and exploring APIs that you could use in your app for inspiration while you formulate an idea
   * Use **postman** and **axios** to interact with an API before you decide to use it in your app
   * when choosing an API, _make sure it is a suitable for your project,_ consider the following:
-    * does the API require any complicated steps to get an API key? _Are they too complex or slow (takes several days to get a key) for your project?_
+    * does the API require any complicated steps to get an API key? _Are they too complex or slow (takes several days or longer to get a key) for your project?_
     * Is is API free? _Does it limit the amount of calls that can be made to it?_
     * Is the API reliable? _Are the responses from the API consistent?_
-  * When recieving data back from an API explore it and consider how you could your it in your project
+  * When recieving data back from an API explore it and consider how you could your it in your project.
+  * You should have successfully gotten an API key and interacted with it before choosing to use it in your project 
 
 [Here](https://github.com/public-apis/public-apis) is a list of free apis to checkout
 [Here](https://www.programmableweb.com/) is an website that lets you search APIs by subject
 The [gitbook](https://gawdiseattle.gitbook.io/wdi/12-resources/apis) has some useful resources as well.
 
-* Start with wireframes and go through a project planning process. Consider what is your:
+* Create wireframes and go through a project planning process. Consider what are your:
     * Goals for each 'sprint' -- _what you plan on accomplishing on a daily basis between pod standups._
-    * MVP
-    * Stretch Goals
+    * MVP -- _your focus should be on making a MVP with a clean codebase before adding stretch goal features._
+    * Stretch Goals -- _extra features you would like to include after you hit MVP._
+* Map your database relationships in an **ERD**.
+* Plan your routes! _Create a RESTful routing chart for your app that you can reference while working._ 
 * **Begin with the end in mind.** Know where you want to go by planning with wireframes & user stories, so you don't waste time building things you don't need
 * **Don't hesitate to write throwaway code to solve short term problems**
 * **Read the docs for whatever technologies you use.** Most of the time, there is a tutorial that you can follow, but not always, and learning to read documentation is crucial to your success as a developer
