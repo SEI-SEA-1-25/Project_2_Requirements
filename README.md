@@ -104,8 +104,8 @@ The [gitbook](https://gawdiseattle.gitbook.io/wdi/12-resources/apis) has some us
 | Score | Expectations | Evaluation Criteria |
 | ----- | ------------ | ------------------ |
 | **3** | _Exceeds expectations, you wonderful creature, you!_ | **Solid MVP + Stretch Goals**
-| **2** | _Meets expectations, good job!_ | **Solid MVP -- meets all technical requirments** 
-| **1** | _Does not meet expectations._ | **No MVP -- missed some technical requirments**
+| **2** | _Meets expectations, good job!_ | **Solid MVP -- meets all technical requirements** 
+| **1** | _Does not meet expectations._ | **No MVP -- missed some technical requirements**
 | **0** | _Incomplete._ | **Not Passing -- missed most or all technical requirments and MVP**
 
  This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
