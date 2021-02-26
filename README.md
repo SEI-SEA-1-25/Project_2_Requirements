@@ -2,7 +2,7 @@
 
 ### Overview
 
-This second project is your first foray into **building a full-stack application.** You'll be **building a PEN stack app (Postgres - Express - Node),** which means you'll learn about what it takes to build a functional application from the ground up yourself.
+This second project is your first foray into **building a full-stack application.** You'll be **server side rendering app** with *express, node, postgres, and ejs.* This means you'll learn about what it takes to build a functional application from the ground up yourself.
 
 **This is exciting!** And you get to be creative in choosing what sort of application you want to build! [Check out](https://gawdiseattle.gitbook.io/wdi/11-projects/past-projects/project2) some past p2s!
 
@@ -55,17 +55,15 @@ Your app must:
   * Use **postman** and **axios** to interact with an API before you decide to use it in your app
   * when choosing an API, _make sure it is a suitable for your project,_ consider the following:
     * does the API require any complicated steps to get an API key? _Are they too complex or slow (takes several days or longer to get a key) for your project?_
-    * **DO NOT** pick an API that requires OAuth!
+    * **DO NOT** pick an API that requires OAuth! _APIs that require OAuth will take up too much time to configure for your p2!_
     * Is is API free? _Does it limit the amount of calls that can be made to it?_
     * Is the API reliable? _Are the responses from the API consistent?_
-  * When recieving data back from an API explore it and consider how you could your it in your project.
-  * You should have successfully gotten an API key and interacted with it before choosing to use it in your project 
-
-* [Here](https://github.com/public-apis/public-apis) is a list of free APIs to checkout
-* [Here](https://apilist.fun/) is a collection of APIs for projects
-* [Here](https://www.programmableweb.com/) is an website that lets you search APIs by subject
-*  The [gitbook](https://gawdiseattle.gitbook.io/wdi/12-resources/apis) has some useful resources as well.
-
+    * When recieving data back from an API explore it and consider how you could your it in your project.
+    * You should have successfully gotten an API key and interacted with it before choosing to use it in your project.
+  * [Here](https://github.com/public-apis/public-apis) is a list of free APIs to checkout
+  * [Here](https://apilist.fun/) is a collection of APIs for projects
+  * [Here](https://www.programmableweb.com/) is an website that lets you search APIs by subject
+  * The [gitbook](https://gawdiseattle.gitbook.io/wdi/12-resources/apis) has some useful resources as well.
 * Create wireframes and go through a project planning process. Consider what are your:
     * Goals for each 'sprint' -- _what you plan on accomplishing on a daily basis between pod standups._
     * MVP -- _your focus should be on making a MVP with a clean codebase before adding stretch goal features._
