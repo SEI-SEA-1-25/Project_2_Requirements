@@ -17,7 +17,7 @@ Your app must:
 * **Have at _least_ 2 models** (more if they make sense) that represents the main functional idea for your app. _This doesn't include join tables or the user model which is needed for user auth._
     * Note: If your app idea doesn't really call for more models, let your instructors know and they can suggest ideas for other sufficiently difficult replacements for this requirement.
 * **Include sign up/log in functionality**, with hashed passwords & an authorization flow
-* **Incorporate at least one API.** Examples include Yelp, Tumblr, Facebook, and others on Mashape.
+* **Incorporate at least one API.** _a list of useful API resources can be found below, along with advice on choosing a good API for your project_.
 * **Have complete RESTful routes** for at least one of your resources with GET, POST, PUT, and DELETE
 * **Utilize the sequelize ORM to create a database table structure** and interact with your relationally-stored data
 * **Include a readme file** that explains how to use your app
@@ -55,14 +55,16 @@ Your app must:
   * Use **postman** and **axios** to interact with an API before you decide to use it in your app
   * when choosing an API, _make sure it is a suitable for your project,_ consider the following:
     * does the API require any complicated steps to get an API key? _Are they too complex or slow (takes several days or longer to get a key) for your project?_
+    * **DO NOT** pick an API that requires OAuth!
     * Is is API free? _Does it limit the amount of calls that can be made to it?_
     * Is the API reliable? _Are the responses from the API consistent?_
   * When recieving data back from an API explore it and consider how you could your it in your project.
   * You should have successfully gotten an API key and interacted with it before choosing to use it in your project 
 
-[Here](https://github.com/public-apis/public-apis) is a list of free apis to checkout
-[Here](https://www.programmableweb.com/) is an website that lets you search APIs by subject
-The [gitbook](https://gawdiseattle.gitbook.io/wdi/12-resources/apis) has some useful resources as well.
+* [Here](https://github.com/public-apis/public-apis) is a list of free APIs to checkout
+* [Here](https://apilist.fun/) is a collection of APIs for projects
+* [Here](https://www.programmableweb.com/) is an website that lets you search APIs by subject
+*  The [gitbook](https://gawdiseattle.gitbook.io/wdi/12-resources/apis) has some useful resources as well.
 
 * Create wireframes and go through a project planning process. Consider what are your:
     * Goals for each 'sprint' -- _what you plan on accomplishing on a daily basis between pod standups._
